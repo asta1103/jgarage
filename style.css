@@ -110,6 +110,10 @@
     position: relative;
     z-index: 2;
 }
+
+.process h6{
+    color: red;
+}
 .process .item.active i{
     font-size: 50px;
     color: white;
@@ -193,6 +197,12 @@
 }
 }
 
+/*about*/
+#about h6{
+    color: red;
+}
+
+
 /*team*/
 .team-item .team-overlay {
     display: flex;
@@ -201,7 +211,9 @@
     transform: scale(0);
     transition: .5s;
 }
-
+#team h6{
+    color: red;
+}
 .team-item:hover .team-overlay {
     transform: scale(1);
 }
