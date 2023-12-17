@@ -41,7 +41,7 @@
     }
 
     .navbar-light .navbar-nav {
-        border-top: 1px solid #EEEEEE;
+        border-top: 1px solid 	#eeeeee;
     }
 }
 .navbar-light .navbar-brand,
@@ -97,7 +97,7 @@
 }
 #service .nav-link{
     background-color:#ee0000;
-    color: black;
+    color: 	#111111;
 }
 #service .nav-link:hover{
     color: 	#eeeeee;
@@ -140,7 +140,7 @@
     box-shadow: 0 10px 50px 1px rgba(0, 0, 0, 0.05);
 }
 .process .item {
-    background: white;
+    background: #eeeeee;
     padding: 45px 20px 60px 20px;
     -webkit-transition: .5s;
     transition: .5s;
@@ -158,7 +158,7 @@
     border-radius: 15px;
 }
 .process .item:hover {
-    color: white;
+    color: #eeeeee;
     background: #ee0000;
     -webkit-box-shadow: 0 10px 50px 1px rgba(0, 0, 0, 0.3);
     box-shadow: 0 10px 50px 1px rgba(0, 0, 0, 0.3);
@@ -173,7 +173,7 @@
     border: 2px solid #ee0000;
     border-radius: 0px;
     background-color:#ee0000;
-    color: white;
+    color: #eeeeee;
     font-weight: 700;
     text-align: center;
     font-family: 'Syne', sans-serif;
@@ -183,9 +183,9 @@
     border-radius: 5px;
 }
 .button-2:hover {
-    border: 2px solid black;
-    background-color: black;
-    color: white;
+    border: 2px solid #111111;
+    background-color: #111111;
+    color: #eeeeee;
     transform: translate3d(0px, -6px, 0.01px);
     text-decoration: none;
 }
@@ -217,7 +217,7 @@
 }
 
 .team-item .team-overlay .btn {
-    background: white;
+    background: #eeeeee;
 }
 
 .team-item .team-overlay .btn:hover {
@@ -227,7 +227,7 @@
 
 /*booking*/
 .booking-bg{
-    background-color: black;
+    background-color: #111111;
 }
 .form-bg{
     background-color: #ee0000;
@@ -237,7 +237,7 @@
     position: relative;
     margin-top: 45px;
     padding-top: 90px;
-    background: black;
+    background: #111111;
 }
 
 .footer .footer-contact,
@@ -245,7 +245,7 @@
 .footer .footer-newsletter {
     position: relative;
     margin-bottom: 45px;
-    color: white;
+    color: #eeeeee;
 }
 
 .footer .footer-contact h2,
@@ -255,13 +255,13 @@
     font-size: 20px;
     font-weight: 700;
     letter-spacing: 2px;
-    color: red;
+    color: #ee0000;
 }
 
 .footer .footer-link a {
     display: block;
     margin-bottom: 10px;
-    color: white;
+    color: #eeeeee;
     transition: .3s;
 }
 
@@ -274,7 +274,7 @@
 }
 
 .footer .footer-link a:hover {
-    color: red;
+    color: #ee0000;
     letter-spacing: 1px;
 }
 
@@ -294,8 +294,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: black;
-    background: white;
+    color: #111111;
+    background: #eeeeee;
     border-radius: 40px;
     margin-right: 5px;
     transition: .5s;
@@ -306,8 +306,8 @@
 }
 
 .footer .footer-social a:hover {
-    color: white;
-    background: red;
+    color: #eeeeee;
+    background: #ee0000;
 }
 
 .footer .footer-newsletter form {
@@ -319,29 +319,29 @@
     margin-bottom: 15px;
     height: 45px;
     background: transparent;
-    border: 1px solid white;
+    border: 1px solid #eeeeee;
     border-radius: 5px;
-    color: white;
+    color: #eeeeee;
 }
 
 .footer .footer-newsletter ::placeholder {
     margin-top: 5px;
-    color: white;
+    color: #eeeeee;
     font-size: 14px;
     letter-spacing: 1px;
 }
 
 .footer .footer-newsletter .btn.btn-custom {
     width: 100%;
-    color: black;
-    background: white;
-    box-shadow: inset 0 0 0 0 red;
+    color: #111111;
+    background: #eeeeee;
+    box-shadow: inset 0 0 0 0 #ee0000;
 }
 
 .footer .footer-newsletter .btn:hover {
-    color: white;
-    background: red;
-    box-shadow: inset 200px 0 0 0 red;
+    color: #eeeeee;
+    background: #ee0000;
+    box-shadow: inset 200px 0 0 0 #ee0000;
 }
 
 .footer .copyright {
@@ -352,29 +352,29 @@
 
 .footer .copyright p {
     margin: 0;
-    color: white;
+    color: #eeeeee;
 }
 
 .footer .copyright p a {
-    color: red;
+    color: #ee0000;
     font-weight: 700;
     letter-spacing: 1px;
 }
 
 .footer .copyright p a:hover {
-    color: white;
+    color: #eeeeee;
 }
 
 /*pricing plan*/
 .pricing {
     position: relative;
-    background-color: black;
+    background-color: #111111;
 }
 .pricing h6{
-    color: red;
+    color: #ee0000;
 }
 .pricing h1{
-    color: white;
+    color: #ee0000;
 }
 .pricing .item {
     position: relative;
@@ -388,14 +388,14 @@
     position: relative;
     margin: 0;
     padding: 60px 30px;
-    background: white;
+    background: #eeeeee;
     border-radius: 5px;
 
 }
 .pricing .item .cont h5 {
     font-size: 24px;
     margin-bottom: 0;
-    color: #101010;
+    color: #111111;
     line-height: 1.25em;
 }
 .pricing .item .cont .price-price {
@@ -406,7 +406,7 @@
     font-size: 40px;
     line-height: 1.25em;
     transition: 700ms cubic-bezier(0.17, 0.67, 0, 1.01);
-    color:black;
+    color:#111111;
     display: inline-flex;
 }
 .pricing .item .cont h1 span {
@@ -422,7 +422,7 @@
 }
 .pricing .item .price-features p .icon {
     margin-right: 10px;
-    color: red;
+    color: #ee0000;
     font-size: 14px;
 }
 .pricing .item .price-features p {
@@ -455,7 +455,7 @@
     line-height: 16px;
     font-family: 'Syne', sans-serif;
     font-weight: 700;
-    color: red;
+    color: #ee0000;
     margin-bottom: 15px;
     position: relative;
     display: inline-block;
@@ -470,14 +470,14 @@
 .section-title {
     font-size: 30px;
     font-family: 'Syne', sans-serif;
-    color: black;
+    color: #111111;
     position: relative;
     margin-bottom: 15px;
     line-height: 1.25em;
     font-weight: 700;
 }
 .section-title span {
-    color: red;
+    color: #ee0000;
 }
 
 .pricing-table-wrapper {
@@ -488,24 +488,24 @@
     border-collapse: collapse;
     min-width: 320px;
     width: 100%;
-    border: 2px solid black;
+    border: 2px solid #111111;
 }
 .pricing-table thead tr {
-    background-color: red;
-    border: 2px solid black;
+    background-color: #ee0000;
+    border: 2px solid #111111;
 }
 .pricing-table tbody tr td {
     text-align: left;
     padding-top: 15px;
     padding-bottom: 15px;
-    color: black;
+    color: #111111;
 }
 .pricing-table thead tr th:last-child {
-    background-color: red;
+    background-color: #ee0000;
 }
 
 .pricing-table tbody tr td:last-child {
-    color: black;
+    color: #111111;
 }
 
 th, tr, td {
@@ -544,7 +544,7 @@ tr:nth-child(even) {
     padding-top: 25px;
     padding-bottom: 25px;
     font-family: 'Syne', sans-serif;
-    color: white;
+    color: #eeeeee;
     font-size: 18px;
 }
 .pricing-table thead tr td, .pricing-table tbody tr td, .pricing-table thead tr th, .pricing-table tbody tr th {
@@ -556,13 +556,13 @@ tr:nth-child(even) {
 
 /*contact us css*/
 .contact{
-    background-color: black;
+    background-color: #111111;
 }
 .contact h6{
-    color: red; 
+    color: #ee0000; 
 }
 .contact h1{
-    color: white;
+    color: #eeeeee;
 }
 .contact .container {
     position: relative;
@@ -570,7 +570,7 @@ tr:nth-child(even) {
 }
 .contact .item.active i{
     font-size: 50px;
-    color: white;
+    color: #eeeeee;
 }
 
 .contact .item i {
@@ -592,12 +592,12 @@ tr:nth-child(even) {
     opacity: .2;
 }
 .contact .item.active {
-    background: red;
+    background: #ee0000;
     -webkit-box-shadow: 0 10px 50px 1px rgba(0, 0, 0, 0.05);
     box-shadow: 0 10px 50px 1px rgba(0, 0, 0, 0.05);
 }
 .contact .item {
-    background: white;
+    background: #eeeeee;
     padding: 45px 20px 60px 20px;
     -webkit-transition: .5s;
     transition: .5s;
@@ -615,8 +615,8 @@ tr:nth-child(even) {
     border-radius: 15px;
 }
 .contact .item:hover {
-    color: white;
-    background: red;
+    color: #eeeeee;
+    background: #ee0000;
     -webkit-box-shadow: 0 10px 50px 1px rgba(0, 0, 0, 0.3);
     box-shadow: 0 10px 50px 1px rgba(0, 0, 0, 0.3);
     transform: translate3d(0px, -15px, 0.01px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
